@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn  # (if using Seaborn for plots)
+scikit-learn 
